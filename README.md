@@ -24,9 +24,7 @@ const priyanshu = {
   name: "Priyanshu Kumar Pandey",
   role: "Full Stack Developer",
   location: "India 🇮🇳",
-  education: "B.Tech @ PES University",
-  passion: ["Competitive Programming", "AI/ML", "Building Cool Stuff"],
-  currentlyLearning: ["System Design", "Cloud Architecture", "LLMs"],
+  education: "B.Tech @ Lovely Professional University",
   funFact: "I debug with console.log and I'm not ashamed of it 😄",
   portfolio: "https://priyanshu0777-portfolio.netlify.app/",
 };
