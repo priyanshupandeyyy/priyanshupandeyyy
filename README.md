@@ -1,21 +1,99 @@
-<h1 align="center">Hi 👋, I'm Priyanshu Kumar Pandey</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<div align="center">
+  <img src="./profile_pic.png" alt="Profile" width="120" style="border-radius: 50%; box-shadow: 0 0 0 3px #7c3aed, 0 0 0 6px rgba(124,58,237,.2);" />
+  <h1>Priyanshu Kumar Pandey's Developer Portfolio</h1>
+  <p><strong>Full Stack Developer | AI Enthusiast | Problem Solver</strong></p>
 
-- 👨‍💻 All of my projects are available at [https://priyanshu0777-portfolio.netlify.app/](https://priyanshu0777-portfolio.netlify.app/)
+  <a href="https://priyanshu0777-portfolio.netlify.app/"><b>View Live Demo</b></a> 
+</div>
 
-- 📫 How to reach me **bharatpandey0777@gmail.com**
+<br />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/priyanshupandeyyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshupandeyyy" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/priyanshu0777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="priyanshu0777" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/priyanshu65" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priyanshu65" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/priyanshu0777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="priyanshu0777" height="30" width="40" /></a>
-</p>
+Welcome to the repository of my personal developer portfolio! This project is built using **React** and **Vite** with a focus on modern web design, performance, and interactivity. It showcases my journey, technical arsenal, featured projects, and achievements.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## ✨ Features
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshupandeyyy&show_icons=true&locale=en&layout=compact" alt="priyanshupandeyyy" /></p>
+- **🚀 Highly Responsive UI**: Built from the ground up to look perfect on all devices.
+- **🌗 Dark & Light Mode Theme**: Seamless toggling between themes with an elegant and polished UI.
+- **🪄 Micro-interactions & Animations**: Includes a custom cursor glow and interactive 3D floating background elements.
+- **💼 Comprehensive Sections**: About, Skills (with category filtering), Projects, Experience (Timeline), Certifications, and Contact.
+- **⚡ Fast and Optimized**: Powered by Vite and React for ultra-fast load times.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshupandeyyy&show_icons=true&locale=en" alt="priyanshupandeyyy" /></p>
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</div>
+
+## 📂 Project Structure
+
+```text
+priyanshu-portfolio/
+├── index.html
+├── package.json
+├── priyanshu_portfolio.jsx   # Main Portfolio Component
+├── main.jsx                  # Entry Point
+├── vite.config.js
+└── ...
+```
+
+## 🚀 Getting Started
+
+To run this project locally, follow these steps:
+
+### Prerequisites
+- Node.js (v18+ recommended)
+- npm or yarn
+
+### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/priyanshupandeyyy/portfolio.git
+   cd portfolio
+   ```
+
+2. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+
+3. **Start the development server:**
+   ```bash
+   npm run dev
+   ```
+
+4. **Build for production:**
+   ```bash
+   npm run build
+   ```
+
+## 📌 Featured Projects
+
+- **🧠 DebateX**: AI-driven debate platform providing automated feedback using Generative AI. 
+  *(MongoDB, Express.js, React.js, Node.js, JWT)*
+- **📊 Process Monitor Dashboard**: Real-time dashboard for monitoring CPU and memory usage using Python, Flask, and Socket.IO.
+- **🌾 Agripool**: Full-stack application highlighting modern MERN architecture.
+
+## 🏆 Achievements
+
+- Solved **350+ coding problems** across LeetCode, HackerRank, etc.
+- Ranked in the **Top 29% globally** on LeetCode contests.
+- **5⭐ HackerRank badges** in Java and Problem Solving.
+- **28% LLM Consistency Improvement** through 100+ evaluated prompts at an Outlier internship.
+
+## 📬 Let's Connect!
+
+<div align="center">
+  <a href="mailto:bharatpandey0777@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/priyanshupandeyyy/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/priyanshupandeyyy"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</div>
+
+<br/>
+<div align="center">
+  <i>If you found this portfolio inspiring, please consider giving the repository a ⭐!</i>
+</div>
