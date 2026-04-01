@@ -66,60 +66,7 @@ const priyanshu = {
 
 ---
 
-## 🏆 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🧠 DebateX</h3>
-      <p align="center">
-        AI-driven debate platform providing real-time automated feedback using Generative AI. Built on the MERN stack with JWT authentication.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📊 Process Monitor Dashboard</h3>
-      <p align="center">
-        Real-time system dashboard tracking CPU and memory usage with live charts. Powered by Python, Flask, and Socket.IO.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🌾 Agripool</h3>
-      <p align="center">
-        Full-stack MERN application connecting farmers and modern agricultural markets with a clean, responsive UI.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express"/>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🌐 Developer Portfolio</h3>
-      <p align="center">
-        My personal portfolio site with dark/light mode, 3D animations, cursor glow effects, and a fully responsive layout.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-        <a href="https://priyanshu0777-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Live%20Demo-7c3aed?style=flat-square&logo=netlify&logoColor=white"/></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
 
 ## 📈 GitHub Stats
 
@@ -130,21 +77,6 @@ const priyanshu = {
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshupandeyyy&theme=tokyonight&hide_border=true&background=0d1117&stroke=7c3aed&ring=7c3aed&fire=ff6b6b&sideLabels=ffffff&dates=8b949e" alt="GitHub Streak" />
-</div>
-
----
-
-## 🏅 Achievements & Competitive Programming
-
-<div align="center">
-
-| 🏆 Achievement | 📊 Details |
-|---|---|
-| 💡 Coding Problems Solved | **350+** across LeetCode, HackerRank & more |
-| 🌍 LeetCode Global Rank | **Top 29%** in contests |
-| ⭐ HackerRank | **5-Star badges** in Java & Problem Solving |
-| 🤖 AI / LLM Work | **28% LLM Consistency Improvement** — 100+ evaluated prompts @ Outlier |
-
 </div>
 
 ---
