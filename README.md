@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=200&section=header&text=Priyanshu%20Kumar%20Pandey&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=60&descSize=16" />
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=440&lines=Building+the+future+with+code+%F0%9F%9A%80;MERN+Stack+Developer+%F0%9F%8C%90;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Competitive+Programmer+%F0%9F%8F%86" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=440&lines=Building+the+future+with+code+%F0%9F%9A%80;MERN+Stack+Developer+%F0%9F%8C%90;AI+%26+ML+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" /></a>
 
 <br/>
 
